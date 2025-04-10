@@ -1,10 +1,10 @@
 ---
-title: "ECON7011C Econometrics for Finance"
+title: "ECON7011C Econometrics for Finance, Fall 2023"
 collection: teaching
 type: "Master's course"
 permalink: /teaching/fall2023-teaching
 venue: "University of Cincinnati"
-date: "Fall 2023"
+# date: "Fall 2023"
 location: "Cincinnati, Ohio"
 ---
 

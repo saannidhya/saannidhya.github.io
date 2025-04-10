@@ -1,10 +1,10 @@
 ---
-title: "ECON2020 Intermediate Microeconomics"
+title: "ECON2020 Intermediate Microeconomics, Spring 2024"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fall2024-teaching
 venue: "University of Cincinnati"
-date: "Spring 2024"
+# date: "Spring 2024"
 location: "Cincinnati, Ohio"
 ---
 
