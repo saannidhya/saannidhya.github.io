@@ -10,11 +10,11 @@ location: "Cincinnati, Ohio"
 
 Taught 47 undergraduate students. Teaching Evaluation Rating: 7.5 out of 8.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
