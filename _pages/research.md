@@ -1,17 +1,15 @@
 ---
 layout: single
 title: "Research"
-permalink: /
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
 ---
 
 <span style="font-size:1.4em;">**Working Papers and Work in Progress**</span>
 
 <span style="font-size:.9em;">**The Effect of Local Road Maintenance Taxes on House Values (Job Market Paper)**</span>
 <br/>
-<span style="font-size:.9em; margin-top: -5px;">With [David Brasington](https://scholar.google.com/citations?user=s5Qa3_MAAAAJ&hl=en). 2025. \</span>
+<span style="font-size:.9em; margin-top: -5px;">With [David Brasington](https://scholar.google.com/citations?user=s5Qa3_MAAAAJ&hl=en). 2025.</span>
 <br/>
 
 <div style="font-size: .9em; line-height: 1.4;">
