@@ -22,7 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "saani_nabe.jpg"
+  # avatar           : "saani_nabe.jpg"
+  avatar           : "saani_rawat_resize.jpg"
   name             : "Saani Rawat"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, Lindner College of Business, University of Cincinnati"
