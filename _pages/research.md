@@ -7,11 +7,11 @@ author_profile: true
 
 <span style="font-size:1.4em;">**Working Papers and Work in Progress**</span>
 
-<!-- <span style="font-size:.9em;">**The Effect of Local Road Maintenance Taxes on House Values ([Job Market Paper](/saannidhya/files/JMP-Article.pdf))**</span> -->
-<span style="font-size:.9em;">
+<span style="font-size:.9em;">**The Effect of Local Road Maintenance Taxes on House Values ([Job Market Paper](//files/JMP-Article.pdf))**</span>
+<!-- <span style="font-size:.9em;">
   **The Effect of Local Road Maintenance Taxes on House Values**
   (<a href="{{ '/files/JMP-Article.pdf' | relative_url }}" target="_blank">Job-Market Paper PDF</a>)
-</span>
+</span> -->
 <br/>
 <span style="font-size:.9em; margin-top: -5px;">With [David Brasington](https://scholar.google.com/citations?user=s5Qa3_MAAAAJ&hl=en). 2025. </span>
 
