@@ -7,10 +7,13 @@ author_profile: true
 
 <span style="font-size:1.4em;">**Working Papers and Work in Progress**</span>
 
-<span style="font-size:.9em;">**The Effect of Local Road Maintenance Taxes on House Values ([Job Market Paper](/saannidhya/files/JMP-Article.pdf))**</span>
+<!-- <span style="font-size:.9em;">**The Effect of Local Road Maintenance Taxes on House Values ([Job Market Paper](/saannidhya/files/JMP-Article.pdf))**</span> -->
+<span style="font-size:.9em;">
+  **The Effect of Local Road Maintenance Taxes on House Values**
+  (<a href="{{ '/files/JMP-Article.pdf' | relative_url }}" target="_blank">Job-Market Paper PDF</a>)
+</span>
 <br/>
 <span style="font-size:.9em; margin-top: -5px;">With [David Brasington](https://scholar.google.com/citations?user=s5Qa3_MAAAAJ&hl=en). 2025. </span>
-
 
 <div style="font-size: .9em; line-height: 1.4;">
 We investigate the economic impact of cutting local road maintenance tax levies in Ohio. Using data from Ohio Secretary of State, we design a quasi-experiment to study local referendums introduced to renew road maintenance taxes, which are typically levied via property taxes. We compare housing sale prices between similar areas that narrowly pass or fail road property tax levies and use satellite images to fine-tune OpenAI's GPT-4O Vision Transformer (ViT) model for classifying road quality and test its performance on large-scale labeled road-image dataset. Our results show that local jurisdictions with close elections that decide to cut road taxes face an average loss of $163,547 (11%) in road maintenance funds, experience a 23% decline in road quality, and suffer a $15,350 (9%) drop in house prices over the course of 10 years relative to similar areas that renew funding. Heterogeneity analysis reveals a stronger percentage decline in urban areas and for expensive houses relative to rural areas and cheaper houses.
