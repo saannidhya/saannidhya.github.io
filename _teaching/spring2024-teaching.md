@@ -10,6 +10,8 @@ location: "Cincinnati, Ohio"
 
 Taught 47 undergraduate students. Teaching Evaluation Rating: 7.5 out of 8.
 
+[Saani Rawat: Rate My Professors Page](https://www.ratemyprofessors.com/professor/2956869)
+
 <!-- Heading 1
 ======
 
