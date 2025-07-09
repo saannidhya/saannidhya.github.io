@@ -20,7 +20,7 @@ redirect_from:
   <img src="/images/saani_rawat_resize.jpg" alt="Saani" style="max-width: 400px; border-radius: 10px;" />
 </div> -->
 
-<span style ="font-size:.9em;"> I will be on the academic job market in Fall 2025.  </span>   
+<span style ="font-size:.9em;"> Formerly, I have worked for Truist Financial Corporation, the Federal Home Loan Bank (FHLB) of Cincinnati, and 84.51° (a Kroger subsidiary), in various roles performing quantitative analytics research. I will be on the academic job market in Fall 2025.  </span>   
 
 <!-- Image at bottom -->
 <!-- <div style="text-align: center; margin-top: 30px;">
