@@ -27,7 +27,7 @@ We examine whether reinvestment in single-family homes (SFHs) varies by housing 
   <br><br/>
 </div>
 
-<span style="font-size:.9em;">**Does Local Urban Governance Matter? Evidence from India**</span>
+<span style="font-size:.9em;">**Does Local Urban Governance Matter? Evidence from India ([Working Paper](https://saannidhya.github.io/files/Urb-Gov-Article.pdf))**</span>
 <br/>
 <!-- <span style="font-size:.9em; margin-top: -5px;">Data provided by 84.51</span>
 <br/> -->
