@@ -26,3 +26,14 @@ redirect_from:
 <!-- <div style="text-align: center; margin-top: 30px;">
   <img src="/images/saani_rawat_resize.jpg" alt="Saani" style="max-width: 400px;" />
 </div> -->
+
+## Recent Presentations
+
+<span style ="font-size:.9em;">
+* [AREUEA 2025 National Conference](https://www.areuea.org/2025-national-conference) - Washington, DC
+* [Miami University's Real Estate Conference](https://miamioh.edu/fsb/departments/finance/call-for-papers.html) - Miami, OH
+* [Old Dominion University Real Estate Symposium](https://areuea.memberclicks.net/index.php?option=com_dailyplanetblog&view=entry&year=2025&month=05&day=22&id=250:3rd-odu-real-estate-research-symposium-october-2-3-2025) - Norfolk, VA
+* [UEA North American Meeting 2025](https://urbaneconomics.org/meetings/uea2025/) - Montréal, Canada
+* [APPAM Fall Research Meeting](https://www.appam.org/conference-events/2025appam/) - Seattle, WA
+* [The Econometric Society Meeting at the ASSA](https://www.econometricsociety.org/regional-activities/schedule/2026/01/03/2026-North-American-Winter-Meeting-Philadelphia-PA) - Upcoming in January 2026
+</span>
