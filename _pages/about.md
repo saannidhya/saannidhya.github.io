@@ -22,7 +22,7 @@ redirect_from:
 
 <span style ="font-size:.9em;"> Formerly, I have worked for Truist Financial Corporation, the Federal Home Loan Bank (FHLB) of Cincinnati, and 84.51° (a Kroger subsidiary), in various roles performing quantitative analytics research. I am on the 2025-26 academic job market.  </span> 
 
-<span style="font-size:.9em;"> The latest draft of my job market paper is available <strong><u>[here](https://saannidhya.github.io/files/JMP-Article.pdf)</u></strong>.  </span> 
+<span style="font-size:.9em;"> The latest draft of my job market paper is available **[here](https://saannidhya.github.io/files/JMP-Article.pdf)**.  </span> 
 
 <!-- Image at bottom -->
 <!-- <div style="text-align: center; margin-top: 30px;">
