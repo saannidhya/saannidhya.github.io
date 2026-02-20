@@ -38,7 +38,7 @@ We study the effect of urban local governance on economic outcomes in India. We 
 
 <span style="font-size:.9em; margin-top: 2px;">**[Artificial Test-Takers as Transformed Controls: Measuring SAT Difficulty Drift and Student Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915452)**</span>
 <br/>
-<span style="font-size:.9em; margin-top: -5px;">With [Vikram Suresh](https://scholar.google.com/citations?hl=en&user=EBKq0HoAAAAJ). Revise & Resubmit at Frontiers in Artificial Intelligence, 2026.</span>
+<span style="font-size:.9em; margin-top: -5px;">With [Vikram Suresh](https://scholar.google.com/citations?hl=en&user=EBKq0HoAAAAJ). Accepted. Frontiers in Artificial Intelligence, 2026.</span>
 <br/>
 
 <!-- <span style="font-size:.9em;">**Predicting Road Quality using Satellite images**</span>
