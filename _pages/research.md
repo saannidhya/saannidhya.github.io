@@ -28,11 +28,13 @@ We examine whether reinvestment in single-family homes (SFHs) varies by housing 
 
 <span style="font-size:.9em;">**Does Local Urban Governance Matter? Evidence from India ([Working Paper](https://saannidhya.github.io/files/Urb-Gov-Article.pdf))**</span>
 <br/>
-<!-- <span style="font-size:.9em; margin-top: -5px;">Data provided by 84.51</span>
-<br/> -->
+
+<span style="font-size:.9em; margin-top: -5px;"><em>Revise &amp; Resubmit.</em> Review of Development Economics, 2026.</span>
+
+<!-- <br/> -->
 
 <div style="font-size: .9em; line-height: 1.4;">
-We study the effect of urban local governance on economic outcomes in India. We develop a fuzzy Regression discontinuity (RD) design by leveraging quasi-random variation coming from multi-threshold criteria for the classification of Census Towns (CTs) to identify areas close to the thresholds that are likely to obtain urban local governance in the form of statutory recognition as a town. Using this variation, we instrument for urban local governance and identify the Local Average Treatment Effect (LATE). Our results show a strong first stage relationship between meeting the CT thresholds and statutory recognition. We find that urban local governance leads to substantial improvements in local outcomes such as the number of primary schools, healthcare facilities, financial institutions and community centers. We also explore potential mechanisms underlying our findings and find suggestive evidence that urban local governance leads to increased local public goods provision and better local administration. 
+We study the effect of urban local governance on economic outcomes in India. We develop a fuzzy Regression discontinuity (RD) design by leveraging quasi-random variation coming from multi-threshold criteria for the classification of Census Towns (CTs) to identify areas close to the thresholds that are likely to obtain urban local governance in the form of statutory recognition as a town. Using this variation, we instrument for urban local governance and identify the Local Average Treatment Effect (LATE). Our results show a strong first stage relationship between meeting the CT thresholds and statutory recognition. We find that urban local governance leads to improvements in local outcomes such as the number of schools, healthcare facilities, financial institutions and community centers. 
   <br><br/>
 </div>
 
