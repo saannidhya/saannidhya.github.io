@@ -16,17 +16,17 @@ Most studies focus on the construction of new transportation infrastructure in d
   <br><br/>
 </div>
 
-<span style="font-size:.9em; margin-top: 2px;">**Homeownership and Reinvestment: A Tale of Two Cities**</span>
+<span style="font-size:.9em; margin-top: 2px;">**Single Family Homes and Reinvestment: Variation by Ownership Type**</span>
 <br/>
 <span style="font-size:.9em; margin-top: -5px;">With [Gary Painter](https://scholar.google.com/citations?user=Cb-z1MwAAAAJ&hl=en) and [Clemens Pilgram](https://scholar.google.com/citations?hl=en&user=y_6AbfcAAAAJ). 2025.</span>
 <br/>
 
 <div style="font-size: .9em; line-height: 1.4;">
-We examine whether reinvestment in single-family homes (SFHs) varies by housing tenure and by landlord size. Using micro-level parcel data from Minneapolis (2017–2024) and Charlotte (2004–2023), we link annual tax assessor records with publicly available building permit data to measure reinvestment. Rental properties are identified via homestead exemptions and mailing addresses, and large landlords are defined based on property-ownership thresholds. In Minneapolis, SFHs for renters file 22% less building permits and invest 33% less in permitted work than otherwise comparable owner-occupied units. In Charlotte, single-family rentals file 9% fewer permits and invest 1–2% less in dollar terms. Moreover, homes owned by large landlords in both cities file 26–56% fewer permits and invest 6–34% less than smaller landlords. Further, we find no statistical difference in plumbing permits, suggesting that landlords and large owners will forego proactive reinvestment, but not primarily reactive repair activity. Taken together, these findings suggest that the growing prevalence of rental occupancy and large-landlord ownership in the SFH market may lead to diminished reinvestment over time, thus increasing depreciation of the overall single-family housing stock.
+We examine whether reinvestment in single-family homes (SFHs) varies by housing tenure and by landlord size. Using micro-level parcel data from Minneapolis (2017–2024) and Charlotte (2004–2023), we link annual tax assessor records with publicly available building permit data to measure reinvestment. Rental properties are identified via homestead exemptions and mailing addresses, and large landlords are defined based on property-ownership thresholds. In Minneapolis, SFHs for renters file less building permits and invest less in permitted work than otherwise comparable owner-occupied units. Moreover, homes owned by large landlords in both cities file fewer permits and invest less than smaller landlords. Further, we find no statistical difference in plumbing permits, suggesting that landlords and large owners will forego proactive reinvestment, but not reactive reinvestment. Taken together, these findings suggest that the growing prevalence of rental occupancy and large-landlord ownership in the SFH market may lead to diminished reinvestment over time, thus increasing depreciation of the overall single-family housing stock.
   <br><br/>
 </div>
 
-<span style="font-size:.9em;">**Does Local Urban Governance Matter? Evidence from India ([Working Paper](https://saannidhya.github.io/files/Urb-Gov-Article.pdf))**</span>
+<span style="font-size:.9em;">**Does Local Urban Governance Status Matter? Evidence from India ([Working Paper](https://saannidhya.github.io/files/Urb-Gov-Article.pdf))**</span>
 <br/>
 
 <span style="font-size:.9em; margin-top: -5px;"><em>Revise &amp; Resubmit.</em> Review of Development Economics, 2026.</span>
