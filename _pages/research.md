@@ -38,10 +38,7 @@ We study the effect of urban local governance on economic outcomes in India. We 
   <br><br/>
 </div>
 
-<span style="font-size:.9em; margin-top: 2px;">**[Artificial Test-Takers as Transformed Controls: Measuring SAT Difficulty Drift and Student Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915452)**</span>
-<br/>
-<span style="font-size:.9em; margin-top: -5px;">With [Vikram Suresh](https://scholar.google.com/citations?hl=en&user=EBKq0HoAAAAJ). Accepted. Frontiers in Artificial Intelligence, 2026.</span>
-<br/>
+
 
 <!-- <span style="font-size:.9em;">**Predicting Road Quality using Satellite images**</span>
 <br/> 
@@ -57,6 +54,12 @@ We study the effect of urban local governance on economic outcomes in India. We 
 
 <span style="font-size:1.4em;">**Publications**</span>
 
+<span style="font-size:.9em; margin-top: 2px;">**[Artificial Test-Takers as Transformed Controls: Measuring SAT Difficulty Drift and Student Performance](https://doi.org/10.3389/frai.2026.1692465)**</span>
+<br/>
+<span style="font-size:.9em; margin-top: -5px;">With [Vikram Suresh](https://scholar.google.com/citations?hl=en&user=EBKq0HoAAAAJ). Frontiers in Artificial Intelligence, 2026.</span>
+<br/>
+
+
 <span style="font-size:.9em;">**[Diverging opinions on standardized testing: A survey-based approach](https://doi.org/10.1016/j.econlet.2025.112292)**</span>
 <br/>
 <span style="font-size:.9em; margin-top: -5px;">With [Vikram Suresh](https://scholar.google.com/citations?hl=en&user=EBKq0HoAAAAJ). Economics Letters, 2025.</span>
@@ -64,10 +67,10 @@ We study the effect of urban local governance on economic outcomes in India. We 
 
 <!-- <small>[ <a href="#/" onclick="visib('BBs')">Abstract</a> | [PDF][BBs] | [LE][BBs_LE] ]</small> -->
 
-<div id="BBs" style="display: none; text-align: justify; line-height: 1.2;">
+<!-- <div id="BBs" style="display: none; text-align: justify; line-height: 1.2;">
   <small>
     We collect micro-level sentiment data on standardized testing for college admissions from undergraduate students and faculty at an R1 institution in the United States. Our findings reveal a notable disparity: students place 23% less weight on standardized tests in the admissions process compared to faculty. Furthermore, in contrast to students’ perceptions, faculty opinions align with Chetty et al. (2023) as they view the standardized tests as a reliable predictor of both academic performance and post-college success.
   </small>
   <br><br/>
-</div>
+</div> -->
 
