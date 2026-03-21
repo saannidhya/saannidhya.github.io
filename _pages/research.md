@@ -33,7 +33,7 @@ We examine whether reinvestment in single-family homes (SFHs) varies by housing 
 
 <!-- <br/> -->
 
-<span style="font-size:.9em; margin-top: -5px;"><em>Barry M. Moriarty Graduate Student Paper Award</em> Southern Regional Science Association, 2026.</span>
+<span style="font-size:.9em; margin-top: -5px;"><em>Barry M. Moriarty Graduate Student Paper Award.</em> Southern Regional Science Association, 2026.</span>
 
 <div style="font-size: .9em; line-height: 1.4;">
 We study the effect of urban local governance status on public goods provision in India. We develop a local fuzzy Regression discontinuity (RD) design by leveraging quasi-random variation coming from multi-threshold criteria for the classification of Census Towns (CTs) to identify areas close to the thresholds that are likely to obtain urban local governance in the form of statutory recognition as a town. Using this variation, we instrument for urban local governance status and identify the Local Average Treatment Effect (LATE). Our results show a strong first stage relationship between meeting the CT thresholds and statutory recognition. We find that urban local governance leads to an increase in public goods facilities such as the number of schools, healthcare facilities, financial institutions and community centers. 

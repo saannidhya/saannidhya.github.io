@@ -34,6 +34,7 @@ redirect_from:
 ## Recent Presentations
 
 * [10th Urbanization and Development Conference](https://www.worldbank.org/en/events/2026/03/30/10th-urbanization-and-development-conference) - Washington, DC
+* [SRSA 2026 Annual Meeting](https://easychair.org/smart-program/SRSA2026/) - Louisville, KY
 * [The Econometric Society Meeting at ASSA 2026 Annual Meeting](https://www.econometricsociety.org/regional-activities/schedule/2026/01/03/2026-North-American-Winter-Meeting-Philadelphia-PA) - Philadelphia, PA
 * [2026 AREUEA-ASSA Conference](https://www.areuea.org/2026-areuea-assa-conference) - Philadelphia, PA
 * [APPAM Fall Research Meeting](https://www.appam.org/conference-events/2025appam/) - Seattle, WA
