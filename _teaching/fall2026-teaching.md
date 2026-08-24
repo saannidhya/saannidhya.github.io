@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fall2026-teaching
 venue: "Marquette University"
-# date: ""
+date: 2026-08-24
 location: "Milwaukee, Wisconsin"
 ---
 

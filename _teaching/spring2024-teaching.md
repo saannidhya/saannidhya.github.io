@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fall2024-teaching
 venue: "University of Cincinnati"
-# date: ""
+date: 2024-01-16
 location: "Cincinnati, Ohio"
 ---
 

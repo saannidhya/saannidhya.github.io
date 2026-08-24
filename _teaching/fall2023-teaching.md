@@ -4,7 +4,7 @@ collection: teaching
 type: "Master's course"
 permalink: /teaching/fall2023-teaching
 venue: "University of Cincinnati"
-# date: ""
+date: 2023-08-21
 location: "Cincinnati, Ohio"
 ---
 
