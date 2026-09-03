@@ -26,20 +26,6 @@ We examine whether reinvestment in single-family homes (SFHs) varies by housing 
   <br><br/>
 </div>
 
-<span style="font-size:.9em;">**Does Local Urban Governance Status Matter? Evidence from India ([Working Paper](https://saannidhya.github.io/files/Urb-Gov-Article.pdf))**</span>
-<!-- <br/> -->
-
-<span style="font-size:.9em; margin-top: -5px;"><em>Revise &amp; Resubmit.</em> Review of Development Economics, 2026.</span>
-
-<!-- <br/> -->
-
-<span style="font-size:.9em; margin-top: -5px;"><em>Barry M. Moriarty Graduate Student Paper Award.</em> Southern Regional Science Association, 2026.</span>
-
-<div style="font-size: .9em; line-height: 1.4;">
-We study the effect of urban local governance status on public goods provision in India. We develop a local fuzzy Regression discontinuity (RD) design by leveraging quasi-random variation coming from multi-threshold criteria for the classification of Census Towns (CTs) to identify areas close to the thresholds that are likely to obtain urban local governance in the form of statutory recognition as a town. Using this variation, we instrument for urban local governance status and identify the Local Average Treatment Effect (LATE). Our results show a strong first stage relationship between meeting the CT thresholds and statutory recognition. We find that urban local governance leads to an increase in public goods facilities such as the number of schools, healthcare facilities, financial institutions and community centers. 
-  <br><br/>
-</div>
-
 <span style="font-size:.9em; margin-top: 2px;">**Keeping the House in the Family: Non-Market Transfers and the Supply of American Homes  ([Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7023098))**. 2026</span>
 <br/>
 
@@ -64,11 +50,16 @@ A large share of American homes change hands without a market. Using 144 million
 
 <span style="font-size:1.4em;">**Publications**</span>
 
+<span style="font-size:.9em; margin-top: 2px;">**Does Local Urban Governance Status Matter? Evidence from India ([Working Paper](https://saannidhya.github.io/files/Urb-Gov-Article.pdf))**</span>
+<br/>
+<span style="font-size:.9em; margin-top: -5px;"><em>Forthcoming.</em> Review of Development Economics, 2026.</span>
+<!-- <br/>
+<span style="font-size:.9em; margin-top: -5px;"><em>Barry M. Moriarty Graduate Student Paper Award.</em> Southern Regional Science Association, 2026.</span> -->
+
 <span style="font-size:.9em; margin-top: 2px;">**[Artificial Test-Takers as Transformed Controls: Measuring SAT Difficulty Drift and Student Performance](https://doi.org/10.3389/frai.2026.1692465)**</span>
 <br/>
 <span style="font-size:.9em; margin-top: -5px;">With [Vikram Suresh](https://scholar.google.com/citations?hl=en&user=EBKq0HoAAAAJ). Frontiers in Artificial Intelligence, 2026.</span>
 <br/>
-
 
 <span style="font-size:.9em;">**[Diverging opinions on standardized testing: A survey-based approach](https://doi.org/10.1016/j.econlet.2025.112292)**</span>
 <br/>
