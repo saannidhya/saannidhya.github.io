@@ -22,6 +22,8 @@ redirect_from:
 
 <span style ="font-size:.9em;"> Formerly, I have worked for Truist Financial Corporation, the Federal Home Loan Bank (FHLB) of Cincinnati, and 84.51° (a Kroger subsidiary), in various roles performing quantitative analytics research. </span> 
 
+<span style ="font-size:.9em;"> <strong>If you are a MEG 2026 conference presenter or attendee</strong>, you can find the conference program <strong><a href="/files/MEG%202026%20Conference%20Program.pdf">here</a></strong>. </span> 
+
 <!-- <span style="font-size:.9em;"> The latest draft of my job market paper is available **[here](https://saannidhya.github.io/files/JMP-Article.pdf)**.  </span>  -->
 
 <!-- <span style="font-size:.9em;"> I will join Marquette University's Department of Finance as an Assistant Professor of Real Estate in August 2026.  </span>  -->
