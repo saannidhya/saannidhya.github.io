@@ -37,7 +37,7 @@ My research interests include Urban and Real Estate Finance, Public Economics, a
 
 ## Recent Presentations
 
-* [ARES 2026 Fall Research and Leadership Symposium](https://www.ares.org/page/fall-research-symposium) - Boston, MA
+* [ARES 2026 Fall Research and Leadership Symposium](https://www.ares.org/page/fall-research-symposium) - Boston, MA (scheduled)
 * [2026 Midwest Econometrics Group (MEG) Annual Meeting](https://www.business.uc.edu/faculty-research/economics/research/meg-2026.html) - Cincinnati, OH
 * [2026 North American Summer Meeting by Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2026/06/04/2026-North-American-Summer-Meeting-Atlanta-Georgia) - Emory University, Atlanta GA
 * [10th Urbanization and Development Conference by World Bank](https://www.worldbank.org/en/events/2026/03/30/10th-urbanization-and-development-conference) - World Bank, John Hopkins University and International Growth Centre, Washington, DC
