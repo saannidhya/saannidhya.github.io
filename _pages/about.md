@@ -12,9 +12,9 @@ redirect_from:
 
 <!-- <img src="/images/saani_rawat_resize.jpg" alt="Saani" style="float: right; width: 400px; margin-left: 20px;" />  -->
 
-<span style ="font-size:.9em;"> Welcome to my academic website! I am an Assistant Professor of Finance & Real Estate at <strong>Marquette University</strong>'s College of Business Administration. I received my PhD from the Department of Economics at University of Cincinnati. 
+<span style ="font-size:.9em;"> Welcome to my academic website! I am an Assistant Professor of Finance & Real Estate at <strong>Marquette University</strong>'s College of Business Administration. I received my PhD from the Department of Economics at University of Cincinnati. </span>
 
-My research interests include Urban and Real Estate Finance, Public Economics, and Economics/Finance with AI. Feel free to explore my pages for more information about my research, teaching, and CV. I also often try to provide code and data related to my latest projects. In my free time, I enjoy hitting the gym, reading obscure books, and doing things with my hands (and legs... I like sports). </span>   
+<span style ="font-size:.9em;"> My research interests include Urban and Real Estate Finance, Public Economics, and Economics/Finance with AI. Feel free to explore my pages for more information about my research, teaching, and CV. I also often try to provide code and data related to my latest projects. In my free time, I enjoy hitting the gym, reading obscure books, and doing things with my hands (and legs... I like sports). </span>
 
 <!-- Centered image -->
 <!-- <div style="text-align: center; margin: 20px 0;">
